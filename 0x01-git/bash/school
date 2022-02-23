@@ -3,4 +3,5 @@ The school is open
 HEAD
 =======
 The school is open
+#!/bin/bash
 update_script
